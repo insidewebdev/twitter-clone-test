@@ -1,4 +1,4 @@
-# twitter-clone
+# Twitter Clone
 This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a social media app (Twitter Clone) using Nuxt 3 + Prisma + TailwindCSS 3
 
 # Assets
